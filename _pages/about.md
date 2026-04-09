@@ -23,12 +23,12 @@ My research focuses on **the science of Language Models**, particularly on under
 
 
 #  News
-- *2025.12*: We will present [our work](https://openreview.net/forum?id=N1BbgSB67h#discussion) at Unireps@NeurIPS 2025!
-- *2025.11*: Check out our [paper](https://arxiv.org/abs/2511.20892) on customizing LLM memory by controlling their hidden states.
+- *2026.06*: Started my Applied Scientist internship at Amazon Science in Seattle, WA.
+- *2026.04*: Our [paper](https://arxiv.org/abs/2511.20892) on customizing LLMs' memory by controlling their hidden states was accepted to the ACL main conference.
 - *2025.11*: Passed my comprehensive exam!
-- *2025.06*: Started my internship at NEC Laboratories America at Princeton, NJ.
-- *2025.05*: One paper accepted by Findings of ACL 2025.
-- *2024.09*: One paper accepted by NeurIPS 2024.
+- *2025.06*: Started my internship at NEC Laboratories America in Princeton, NJ.
+- *2025.05*: One paper was accepted to Findings of ACL 2025.
+- *2024.09*: One paper was accepted to NeurIPS 2024.
 
 # Publications
 
@@ -37,8 +37,9 @@ My research focuses on **the science of Language Models**, particularly on under
 
 **Representation Interventions Enable Lifelong Unstructured Knowledge Control**
 
-**Xuyuan Liu**, [Zhengzhang Chen](https://scholar.google.com/citations?hl=en&user=2t7wQ24AAAAJ), [Xinshuai Dong](https://dongxinshuai.github.io/), [Yanchi Liu](https://openreview.net/profile?id=~Yanchi_Liu1), [Xujiang Zhao](https://openreview.net/profile?id=~Xujiang_Zhao1), [Shengyu Chen](https://openreview.net/profile?id=~Shengyu_Chen1), [Haoyu Wang](https://openreview.net/profile?id=~Haoyu_Wang11), [Yujun Yan](https://sites.google.com/view/yujunyan?usp=sharing), [Haifeng Chen](https://scholar.google.com/citations?user=QzakB68AAAAJ&hl=en)
+**Xuyuan Liu**,[Shengyu Chen](https://openreview.net/profile?id=~Shengyu_Chen1), [Xinshuai Dong](https://dongxinshuai.github.io/), [Yanchi Liu](https://openreview.net/profile?id=~Yanchi_Liu1), [Xujiang Zhao](https://openreview.net/profile?id=~Xujiang_Zhao1), [Haoyu Wang](https://openreview.net/profile?id=~Haoyu_Wang11), [Yujun Yan](https://sites.google.com/view/yujunyan?usp=sharing), [Haifeng Chen](https://scholar.google.com/citations?user=QzakB68AAAAJ&hl=en),[Zhengzhang Chen](https://scholar.google.com/citations?hl=en&user=2t7wQ24AAAAJ)
 
+*ACL 2026 (main)*
 [Preprint](https://arxiv.org/abs/2511.20892)
 
 </div>
@@ -51,7 +52,7 @@ My research focuses on **the science of Language Models**, particularly on under
 
 **Xuyuan Liu**, [Lei Hsiung](https://hsiung.cc/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/home), [Yujun Yan](https://sites.google.com/view/yujunyan)
 
-*Findings of ACL 2025* &nbsp; *also in Unireps@NeurIPS 2025*
+*Findings of ACL 2025, * &nbsp;*also in Unireps@NeurIPS 2025*
 
 [Paper](https://arxiv.org/abs/2506.00382) \| [Project Page](https://graphminddartmouth.github.io/Data-Oblivious-Critical-Layers/)
 
