@@ -23,7 +23,7 @@ My research focuses on **the science of Language Models**, particularly on under
 
 
 #  News
-- *2026.06*: Started Applied Scientist Internship at Amazo  Intern in Seattle, WA.
+- *2026.06*: Started Applied Scientist Internship at Amazon in Seattle, WA.
 - *2026.04*: Our [paper](https://arxiv.org/abs/2511.20892) on customizing LLMs' memory by controlling their hidden states. was accepted to the ACL main conference.
 - *2025.11*: Passed my comprehensive exam!
 - *2025.06*: Started my internship at NEC Laboratories America in Princeton, NJ.
@@ -52,7 +52,7 @@ My research focuses on **the science of Language Models**, particularly on under
 
 **Xuyuan Liu**, [Lei Hsiung](https://hsiung.cc/), [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/home), [Yujun Yan](https://sites.google.com/view/yujunyan)
 
-*Findings of ACL 2025, * &nbsp;*also in Unireps@NeurIPS 2025*
+*Findings of ACL 2025,&nbsp;* also in Unireps@NeurIPS 2025
 
 [Paper](https://arxiv.org/abs/2506.00382) \| [Project Page](https://graphminddartmouth.github.io/Data-Oblivious-Critical-Layers/)
 
