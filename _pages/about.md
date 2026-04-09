@@ -26,7 +26,7 @@ My research focuses on **the science of Language Models**, particularly on under
 - *2026.06*: Started Applied Scientist Internship at Amazon in Seattle, WA.
 - *2026.04*: Our [paper](https://arxiv.org/abs/2511.20892) on customizing LLMs' memory by controlling their hidden states. was accepted to the ACL main conference.
 - *2025.11*: Passed my comprehensive exam!
-- *2025.06*: Started my internship at NEC Laboratories America in Princeton, NJ.
+- *2025.06*: Started internship at NEC Laboratories America in Princeton, NJ.
 - *2025.05*: One paper was accepted to Findings of ACL 2025.
 - *2024.09*: One paper was accepted to NeurIPS 2024.
 
@@ -106,4 +106,4 @@ Zichen Liu, **Xuyuan Liu**, Yanlong Wen, Guoqing Zhao, Fen Xia, Xiaojie Yuan
 - 2022, Scientific Research Innovation Scholarship, Nankai University
 
 #  Services
-- Conference Reviewer: NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025-2026, KDD Dataset&Benckmark 2026
+- Conference Reviewer: NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025-2026, KDD Dataset & Benchmark 2026
