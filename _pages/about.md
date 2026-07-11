@@ -24,7 +24,7 @@ My research focuses on **the science of Language Models**, particularly on under
 
 #  News
 - *2026.06*: Started Applied Scientist Internship at Amazon in Seattle, WA.
-- *2026.04*: Our [paper](https://arxiv.org/abs/2511.20892) on customizing LLMs' memory by controlling their hidden states. was accepted to the ACL main conference.
+- *2026.04*: Our [paper](https://arxiv.org/abs/2511.20892) on customizing LLMs' memory by controlling their hidden states was accepted to the ACL main conference as oral presentation.
 - *2025.11*: Passed my comprehensive exam!
 - *2025.06*: Started internship at NEC Laboratories America in Princeton, NJ.
 - *2025.05*: One paper was accepted to Findings of ACL 2025.
@@ -39,7 +39,7 @@ My research focuses on **the science of Language Models**, particularly on under
 
 **Xuyuan Liu**,[Shengyu Chen](https://openreview.net/profile?id=~Shengyu_Chen1), [Xinshuai Dong](https://dongxinshuai.github.io/), [Yanchi Liu](https://openreview.net/profile?id=~Yanchi_Liu1), [Xujiang Zhao](https://openreview.net/profile?id=~Xujiang_Zhao1), [Haoyu Wang](https://openreview.net/profile?id=~Haoyu_Wang11), [Yujun Yan](https://sites.google.com/view/yujunyan?usp=sharing), [Haifeng Chen](https://scholar.google.com/citations?user=QzakB68AAAAJ&hl=en),[Zhengzhang Chen](https://scholar.google.com/citations?hl=en&user=2t7wQ24AAAAJ)
 
-*ACL 2026 (main)*
+*ACL 2026 (main，ORAL)*
 [Preprint](https://arxiv.org/abs/2511.20892)
 
 </div>
