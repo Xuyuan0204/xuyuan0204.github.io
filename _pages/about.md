@@ -39,6 +39,8 @@ My research focuses on **the science of Language Models**, particularly on under
 
 **Xuyuan Liu**, [Xinshuai Dong](https://dongxinshuai.github.io/), [Elynn Chen](https://elynncc.github.io/), [Yujun Yan](https://sites.google.com/view/yujunyan?usp=sharing)
 
+*NeurIPS 2026*
+
 </div>
 </div>
 
