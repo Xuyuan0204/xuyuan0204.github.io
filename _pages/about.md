@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. ~~student~~ candidate in the [Department of Computer Science](https://web.cs.dartmouth.edu/) at [Dartmouth College](https://home.dartmouth.edu/), advised by [Prof. Yujun Yan](https://sites.google.com/view/yujunyan?usp=sharing). 
 
-My research focuses on **the science of Language Models**, particularly on understanding their behavior during both training and inference through methods that probe their internal mechanisms. I aim to **understand how LLMs work internally** and leverage that understanding to develop technical methods that enhance their performance.
+My research focuses on **the science of Language Models**, particularly on understanding their behavior during both training and inference. My work centers on understanding **how post-training shapes LLMs** and **how LLMs work internally at inference**, and on leveraging that understanding to develop technical methods that enhance their performance.
 
 #  Educations
 
@@ -23,14 +23,24 @@ My research focuses on **the science of Language Models**, particularly on under
 
 
 #  News
-- *2026.06*: Started Applied Scientist Internship at Amazon in Seattle, WA.
-- *2026.04*: Our [paper](https://arxiv.org/abs/2511.20892) on customizing LLMs' memory by controlling their hidden states was accepted to the ACL main conference as oral presentation.
-- *2025.11*: Passed my comprehensive exam!
-- *2025.06*: Started internship at NEC Laboratories America in Princeton, NJ.
+- *2026.09*: One paper was accepted to NeurIPS 2026.
+- *2026.06*: Started an Applied Scientist internship at Amazon in Seattle, WA.
+- *2026.04*: Our [paper](https://arxiv.org/abs/2511.20892) on customizing LLMs' memory by controlling their hidden states was accepted to the ACL main conference as an oral presentation.
+- *2025.06*: Started a research internship at NEC Laboratories America in Princeton, NJ.
 - *2025.05*: One paper was accepted to Findings of ACL 2025.
 - *2024.09*: One paper was accepted to NeurIPS 2024.
 
 # Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LoGIST.png' alt="LoGIST" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**When Form Changes but Logic Doesn't: Building Logic-invariant LLMs through Structures**
+
+**Xuyuan Liu**, [Xinshuai Dong](https://dongxinshuai.github.io/), [Elynn Chen](https://elynncc.github.io/), [Yujun Yan](https://sites.google.com/view/yujunyan?usp=sharing)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/RILKE.png' alt="RILKE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,8 +49,8 @@ My research focuses on **the science of Language Models**, particularly on under
 
 **Xuyuan Liu**,[Shengyu Chen](https://openreview.net/profile?id=~Shengyu_Chen1), [Xinshuai Dong](https://dongxinshuai.github.io/), [Yanchi Liu](https://openreview.net/profile?id=~Yanchi_Liu1), [Xujiang Zhao](https://openreview.net/profile?id=~Xujiang_Zhao1), [Haoyu Wang](https://openreview.net/profile?id=~Haoyu_Wang11), [Yujun Yan](https://sites.google.com/view/yujunyan?usp=sharing), [Haifeng Chen](https://scholar.google.com/citations?user=QzakB68AAAAJ&hl=en),[Zhengzhang Chen](https://scholar.google.com/citations?hl=en&user=2t7wQ24AAAAJ)
 
-*ACL 2026 (main, ORAL)*
-[Preprint](https://arxiv.org/abs/2511.20892)
+*ACL 2026 (main)* **(ORAL)**
+[Preprint](https://arxiv.org/abs/2511.20892) \| [Code](https://github.com/Xuyuan0204/RepKnowledgeEdit)
 
 </div>
 </div>
@@ -86,19 +96,6 @@ Zichen Liu, **Xuyuan Liu**, Yanlong Wen, Guoqing Zhao, Fen Xia, Xiaojie Yuan
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/RepresentationSubspace.png' alt="TreeMAN" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Low-Rank Plus Sparse Matrix Transfer Learning under Growing Representations and Ambient Dimensions**
-
-[Jinhang Chai](https://jinhangc.github.io/), **Xuyuan Liu**, [Elynn Chen](https://elynncc.github.io/) , [Yujun Yan](https://sites.google.com/view/yujunyan?usp=sharing)
-
-[Preprint](https://arxiv.org/abs/2601.21873)
-
-</div>
-</div>
-
 
 #  Honors
 - 2023, Dartmouth Fellowship
