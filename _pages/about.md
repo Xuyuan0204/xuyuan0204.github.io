@@ -30,7 +30,7 @@ My research focuses on **the science of Language Models**, particularly on under
 - *2025.05*: One paper was accepted to Findings of ACL 2025.
 - *2024.09*: One paper was accepted to NeurIPS 2024.
 
-# Publications
+# Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/LoGIST.png' alt="LoGIST" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,19 +85,6 @@ My research focuses on **the science of Language Models**, particularly on under
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Treeman.png' alt="TreeMAN" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**TreeMAN: Tree-enhanced Multimodal Attention Network for ICD Coding**
-
-Zichen Liu, **Xuyuan Liu**, Yanlong Wen, Guoqing Zhao, Fen Xia, Xiaojie Yuan
-
-*COLING 2022* &nbsp; **(ORAL)**
-
-[Paper](https://aclanthology.org/2022.coling-1.270/)
-
-</div>
-</div>
 
 #  Honors
 - 2023, Dartmouth Fellowship
